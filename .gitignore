@@ -1,0 +1,10 @@
+# Respaldos y datos locales de MySQL
+*.ibd
+*_backup.sql
+backups/
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
+.env
